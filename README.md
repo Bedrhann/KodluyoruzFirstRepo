@@ -1,5 +1,7 @@
 # KodluyoruzFirstRepo
 Within the scope of the Kodluyoruz Training, my content is the first repo
+
+
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
 git clone https://github.com/EmrullahYilmazz/kodluyoruzilkrepo
